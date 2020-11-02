@@ -1,5 +1,7 @@
-<center>
-  <h1>BangKhunBhuma</h1>
-</center>
-## AdaBrain Math-Com Studio
-### H3
+# BangKhunBhuma
+## Created by AdaBrain Math-Com Studio
+
+
+# Tutorial
+# Git Learning
+# Service
