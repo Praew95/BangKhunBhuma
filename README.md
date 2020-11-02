@@ -2,6 +2,6 @@
 ## Created by AdaBrain Math-Com Studio
 
 
-# Tutorial
-# Git Learning
-# Service
+* Tutorial
+* Git Learning
+* Service
